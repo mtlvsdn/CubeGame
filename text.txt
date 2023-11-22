@@ -1,0 +1,13 @@
+1. Creez personajul cub
+2. Create bars
+3. Create in code the game window
+4. Set a background
+5. Set the character on the scene
+6. Make the character move right-left
+7. Make bars appear
+8. Make a score variable
+9. Make the charcter interact with the bars
+10. Make a replay button
+11. Make a Start button
+12. Make a high score variable
+13. Make the game remember the high score also after you close the game
